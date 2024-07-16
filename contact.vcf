@@ -4,8 +4,5 @@ N:Sullivan;John;;;
 TEL;TYPE=VOICE,pref:+15204379305
 EMAIL:Jbsullivan10@gmail.com
 URL:https://leetzor.com
-PHOTO;VALUE=uri:https://github.com/lonewolfzor/contact_me/blob/main/contactimg.png?raw=true
 PRODID:-//BBros LLC//BVCard.com 2.0.1//EN
-item1.URL;type=pref:bvcard.com
-item1.X-ABLabel:vCard generator
 END:VCARD
