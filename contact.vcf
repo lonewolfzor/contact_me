@@ -1,8 +1,6 @@
 BEGIN:VCARD
-VERSION:3.0
-FN;CHARSET=UTF-8:John Sullivan
-N;CHARSET=UTF-8:Sullivan;John;;;
-EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:Jbsullivan10@gmail.com
-TEL;TYPE=CELL:5204379305
-REV:2024-07-15T23:16:41.507Z
+VERSION:4.0
+N:Sullivan;John;;;
+URL:Https://leetzor.com
+PHOTO;VALUE=uri:https://media.licdn.com/dms/image/D5603AQHBAYj-UfRpAw/profile-displayphoto-shrink_200_200/0/1690832172651?e=1726704000&v=beta&t=30P_GfTUHcZ7_aFVob5Ljd2-JKAaF78dd59SMUB6C6M
 END:VCARD
